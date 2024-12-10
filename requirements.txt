@@ -1,0 +1,4 @@
+opencv-python==4.10.0.84
+facenet_pytorch==2.5.3
+scikit-image==0.24.0
+tqdm==4.67.1

@@ -1,0 +1,2412 @@
+{
+    "scenes": [
+        {
+            "scene_number": 0,
+            "file_name": "annotated_video.mp4",
+            "start_time": 0.0,
+            "end_time": 0.6673333333333333,
+            "frames": [
+                {
+                    "frame_number": 0,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 1,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 2,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 3,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 4,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 5,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 6,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 7,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 8,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 9,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 10,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 11,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 12,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 13,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 14,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 15,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 16,
+                    "target_face": null
+                }
+            ]
+        },
+        {
+            "scene_number": 1,
+            "file_name": "annotated_video.mp4",
+            "start_time": 0.7090416666666666,
+            "end_time": 2.3356666666666666,
+            "frames": [
+                {
+                    "frame_number": 17,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 18,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 19,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 20,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 21,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 22,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 23,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 24,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 25,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 26,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 27,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 28,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 29,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 30,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 31,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 32,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 33,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 34,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 35,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 36,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 37,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 38,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 39,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 40,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 41,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 42,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 43,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 44,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 45,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 46,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 47,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 48,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 49,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 50,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 51,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 52,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 53,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 54,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 55,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 56,
+                    "target_face": null
+                }
+            ]
+        },
+        {
+            "scene_number": 2,
+            "file_name": "annotated_video.mp4",
+            "start_time": 2.377375,
+            "end_time": 5.046708333333333,
+            "frames": [
+                {
+                    "frame_number": 57,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 58,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 59,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 60,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 61,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 62,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 63,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 64,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 65,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 66,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 67,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 68,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 69,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 70,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 71,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 72,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 73,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 74,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 75,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 76,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 77,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 78,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 79,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 80,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 81,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 82,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 83,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 84,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 85,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 86,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 87,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 88,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 89,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 90,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 91,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 92,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 93,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 94,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 95,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 96,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 97,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 98,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 99,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 100,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 101,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 102,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 103,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 104,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 105,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 106,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 107,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 108,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 109,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 110,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 111,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 112,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 113,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 114,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 115,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 116,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 117,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 118,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 119,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 120,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 121,
+                    "target_face": null
+                }
+            ]
+        },
+        {
+            "scene_number": 3,
+            "file_name": "annotated_video.mp4",
+            "start_time": 5.088416666666666,
+            "end_time": 6.548208333333333,
+            "frames": [
+                {
+                    "frame_number": 122,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 123,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 124,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 125,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 126,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 127,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 128,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 129,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 130,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 131,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 132,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 133,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 134,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 135,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 136,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 137,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 138,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 139,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 140,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 141,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 142,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 143,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 144,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 145,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 146,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 147,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 148,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 149,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 150,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 151,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 152,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 153,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 154,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 155,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 156,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 157,
+                    "target_face": null
+                }
+            ]
+        },
+        {
+            "scene_number": 4,
+            "file_name": "annotated_video.mp4",
+            "start_time": 6.589916666666666,
+            "end_time": 11.052708333333333,
+            "frames": [
+                {
+                    "frame_number": 158,
+                    "target_face": {
+                        "x": 460,
+                        "y": 93,
+                        "width": 160,
+                        "height": 238,
+                        "similarity": 0.5656992197036743
+                    }
+                },
+                {
+                    "frame_number": 159,
+                    "target_face": {
+                        "x": 457,
+                        "y": 96,
+                        "width": 155,
+                        "height": 234,
+                        "similarity": 0.5117800235748291
+                    }
+                },
+                {
+                    "frame_number": 160,
+                    "target_face": {
+                        "x": 451,
+                        "y": 99,
+                        "width": 154,
+                        "height": 231,
+                        "similarity": 0.547311544418335
+                    }
+                },
+                {
+                    "frame_number": 161,
+                    "target_face": {
+                        "x": 448,
+                        "y": 100,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5208398103713989
+                    }
+                },
+                {
+                    "frame_number": 162,
+                    "target_face": {
+                        "x": 446,
+                        "y": 100,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5219091773033142
+                    }
+                },
+                {
+                    "frame_number": 163,
+                    "target_face": {
+                        "x": 446,
+                        "y": 99,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5245000123977661
+                    }
+                },
+                {
+                    "frame_number": 164,
+                    "target_face": {
+                        "x": 449,
+                        "y": 99,
+                        "width": 154,
+                        "height": 232,
+                        "similarity": 0.5442483425140381
+                    }
+                },
+                {
+                    "frame_number": 165,
+                    "target_face": {
+                        "x": 451,
+                        "y": 99,
+                        "width": 154,
+                        "height": 232,
+                        "similarity": 0.5355774164199829
+                    }
+                },
+                {
+                    "frame_number": 166,
+                    "target_face": {
+                        "x": 454,
+                        "y": 99,
+                        "width": 151,
+                        "height": 231,
+                        "similarity": 0.5232727527618408
+                    }
+                },
+                {
+                    "frame_number": 167,
+                    "target_face": {
+                        "x": 457,
+                        "y": 97,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5339949131011963
+                    }
+                },
+                {
+                    "frame_number": 168,
+                    "target_face": {
+                        "x": 458,
+                        "y": 96,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5701603889465332
+                    }
+                },
+                {
+                    "frame_number": 169,
+                    "target_face": {
+                        "x": 460,
+                        "y": 100,
+                        "width": 157,
+                        "height": 234,
+                        "similarity": 0.6321865320205688
+                    }
+                },
+                {
+                    "frame_number": 170,
+                    "target_face": {
+                        "x": 463,
+                        "y": 96,
+                        "width": 161,
+                        "height": 237,
+                        "similarity": 0.5863550901412964
+                    }
+                },
+                {
+                    "frame_number": 171,
+                    "target_face": {
+                        "x": 469,
+                        "y": 90,
+                        "width": 161,
+                        "height": 237,
+                        "similarity": 0.5855997204780579
+                    }
+                },
+                {
+                    "frame_number": 172,
+                    "target_face": {
+                        "x": 470,
+                        "y": 82,
+                        "width": 166,
+                        "height": 250,
+                        "similarity": 0.6242285966873169
+                    }
+                },
+                {
+                    "frame_number": 173,
+                    "target_face": {
+                        "x": 476,
+                        "y": 84,
+                        "width": 167,
+                        "height": 244,
+                        "similarity": 0.6109342575073242
+                    }
+                },
+                {
+                    "frame_number": 174,
+                    "target_face": {
+                        "x": 484,
+                        "y": 82,
+                        "width": 167,
+                        "height": 247,
+                        "similarity": 0.624082088470459
+                    }
+                },
+                {
+                    "frame_number": 175,
+                    "target_face": {
+                        "x": 496,
+                        "y": 84,
+                        "width": 161,
+                        "height": 241,
+                        "similarity": 0.6134355664253235
+                    }
+                },
+                {
+                    "frame_number": 176,
+                    "target_face": {
+                        "x": 499,
+                        "y": 90,
+                        "width": 166,
+                        "height": 240,
+                        "similarity": 0.6136157512664795
+                    }
+                },
+                {
+                    "frame_number": 177,
+                    "target_face": {
+                        "x": 505,
+                        "y": 93,
+                        "width": 163,
+                        "height": 237,
+                        "similarity": 0.622296154499054
+                    }
+                },
+                {
+                    "frame_number": 178,
+                    "target_face": {
+                        "x": 511,
+                        "y": 88,
+                        "width": 164,
+                        "height": 241,
+                        "similarity": 0.5483980774879456
+                    }
+                },
+                {
+                    "frame_number": 179,
+                    "target_face": {
+                        "x": 515,
+                        "y": 88,
+                        "width": 166,
+                        "height": 244,
+                        "similarity": 0.5237997770309448
+                    }
+                },
+                {
+                    "frame_number": 180,
+                    "target_face": {
+                        "x": 521,
+                        "y": 91,
+                        "width": 163,
+                        "height": 241,
+                        "similarity": 0.5777623653411865
+                    }
+                },
+                {
+                    "frame_number": 181,
+                    "target_face": {
+                        "x": 524,
+                        "y": 96,
+                        "width": 164,
+                        "height": 243,
+                        "similarity": 0.5313583612442017
+                    }
+                },
+                {
+                    "frame_number": 182,
+                    "target_face": {
+                        "x": 527,
+                        "y": 91,
+                        "width": 164,
+                        "height": 246,
+                        "similarity": 0.5526394844055176
+                    }
+                },
+                {
+                    "frame_number": 183,
+                    "target_face": {
+                        "x": 526,
+                        "y": 87,
+                        "width": 170,
+                        "height": 250,
+                        "similarity": 0.5521811842918396
+                    }
+                },
+                {
+                    "frame_number": 184,
+                    "target_face": {
+                        "x": 535,
+                        "y": 91,
+                        "width": 166,
+                        "height": 243,
+                        "similarity": 0.5611015558242798
+                    }
+                },
+                {
+                    "frame_number": 185,
+                    "target_face": {
+                        "x": 541,
+                        "y": 90,
+                        "width": 163,
+                        "height": 241,
+                        "similarity": 0.5155496597290039
+                    }
+                },
+                {
+                    "frame_number": 186,
+                    "target_face": {
+                        "x": 542,
+                        "y": 96,
+                        "width": 164,
+                        "height": 240,
+                        "similarity": 0.5539524555206299
+                    }
+                },
+                {
+                    "frame_number": 187,
+                    "target_face": {
+                        "x": 545,
+                        "y": 99,
+                        "width": 166,
+                        "height": 240,
+                        "similarity": 0.5364894270896912
+                    }
+                },
+                {
+                    "frame_number": 188,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 189,
+                    "target_face": {
+                        "x": 550,
+                        "y": 109,
+                        "width": 170,
+                        "height": 246,
+                        "similarity": 0.527517557144165
+                    }
+                },
+                {
+                    "frame_number": 190,
+                    "target_face": {
+                        "x": 550,
+                        "y": 111,
+                        "width": 167,
+                        "height": 249,
+                        "similarity": 0.5061209201812744
+                    }
+                },
+                {
+                    "frame_number": 191,
+                    "target_face": {
+                        "x": 551,
+                        "y": 109,
+                        "width": 167,
+                        "height": 252,
+                        "similarity": 0.5216661691665649
+                    }
+                },
+                {
+                    "frame_number": 192,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 193,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 194,
+                    "target_face": {
+                        "x": 559,
+                        "y": 112,
+                        "width": 176,
+                        "height": 253,
+                        "similarity": 0.5098469257354736
+                    }
+                },
+                {
+                    "frame_number": 195,
+                    "target_face": {
+                        "x": 560,
+                        "y": 109,
+                        "width": 175,
+                        "height": 258,
+                        "similarity": 0.5277910232543945
+                    }
+                },
+                {
+                    "frame_number": 196,
+                    "target_face": {
+                        "x": 560,
+                        "y": 108,
+                        "width": 176,
+                        "height": 256,
+                        "similarity": 0.5400317311286926
+                    }
+                },
+                {
+                    "frame_number": 197,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 198,
+                    "target_face": {
+                        "x": 563,
+                        "y": 108,
+                        "width": 173,
+                        "height": 252,
+                        "similarity": 0.5373647212982178
+                    }
+                },
+                {
+                    "frame_number": 199,
+                    "target_face": {
+                        "x": 562,
+                        "y": 105,
+                        "width": 176,
+                        "height": 255,
+                        "similarity": 0.5605259537696838
+                    }
+                },
+                {
+                    "frame_number": 200,
+                    "target_face": {
+                        "x": 563,
+                        "y": 103,
+                        "width": 175,
+                        "height": 255,
+                        "similarity": 0.576261043548584
+                    }
+                },
+                {
+                    "frame_number": 201,
+                    "target_face": {
+                        "x": 563,
+                        "y": 106,
+                        "width": 173,
+                        "height": 252,
+                        "similarity": 0.5932075381278992
+                    }
+                },
+                {
+                    "frame_number": 202,
+                    "target_face": {
+                        "x": 562,
+                        "y": 105,
+                        "width": 173,
+                        "height": 252,
+                        "similarity": 0.5927632451057434
+                    }
+                },
+                {
+                    "frame_number": 203,
+                    "target_face": {
+                        "x": 565,
+                        "y": 106,
+                        "width": 172,
+                        "height": 249,
+                        "similarity": 0.566814661026001
+                    }
+                },
+                {
+                    "frame_number": 204,
+                    "target_face": {
+                        "x": 566,
+                        "y": 105,
+                        "width": 170,
+                        "height": 249,
+                        "similarity": 0.6070707440376282
+                    }
+                },
+                {
+                    "frame_number": 205,
+                    "target_face": {
+                        "x": 566,
+                        "y": 103,
+                        "width": 167,
+                        "height": 246,
+                        "similarity": 0.6095579862594604
+                    }
+                },
+                {
+                    "frame_number": 206,
+                    "target_face": {
+                        "x": 566,
+                        "y": 102,
+                        "width": 167,
+                        "height": 247,
+                        "similarity": 0.5973559021949768
+                    }
+                },
+                {
+                    "frame_number": 207,
+                    "target_face": {
+                        "x": 565,
+                        "y": 102,
+                        "width": 169,
+                        "height": 249,
+                        "similarity": 0.583641529083252
+                    }
+                },
+                {
+                    "frame_number": 208,
+                    "target_face": {
+                        "x": 563,
+                        "y": 100,
+                        "width": 170,
+                        "height": 250,
+                        "similarity": 0.5717935562133789
+                    }
+                },
+                {
+                    "frame_number": 209,
+                    "target_face": {
+                        "x": 563,
+                        "y": 102,
+                        "width": 172,
+                        "height": 246,
+                        "similarity": 0.5744943022727966
+                    }
+                },
+                {
+                    "frame_number": 210,
+                    "target_face": {
+                        "x": 565,
+                        "y": 96,
+                        "width": 170,
+                        "height": 255,
+                        "similarity": 0.5328221321105957
+                    }
+                },
+                {
+                    "frame_number": 211,
+                    "target_face": {
+                        "x": 568,
+                        "y": 94,
+                        "width": 166,
+                        "height": 247,
+                        "similarity": 0.564992368221283
+                    }
+                },
+                {
+                    "frame_number": 212,
+                    "target_face": {
+                        "x": 565,
+                        "y": 93,
+                        "width": 166,
+                        "height": 249,
+                        "similarity": 0.5675034523010254
+                    }
+                },
+                {
+                    "frame_number": 213,
+                    "target_face": {
+                        "x": 565,
+                        "y": 96,
+                        "width": 161,
+                        "height": 246,
+                        "similarity": 0.5486149787902832
+                    }
+                },
+                {
+                    "frame_number": 214,
+                    "target_face": {
+                        "x": 563,
+                        "y": 97,
+                        "width": 161,
+                        "height": 247,
+                        "similarity": 0.5588049292564392
+                    }
+                },
+                {
+                    "frame_number": 215,
+                    "target_face": {
+                        "x": 562,
+                        "y": 103,
+                        "width": 158,
+                        "height": 244,
+                        "similarity": 0.5428457260131836
+                    }
+                },
+                {
+                    "frame_number": 216,
+                    "target_face": {
+                        "x": 556,
+                        "y": 106,
+                        "width": 160,
+                        "height": 244,
+                        "similarity": 0.5183212757110596
+                    }
+                },
+                {
+                    "frame_number": 217,
+                    "target_face": {
+                        "x": 554,
+                        "y": 111,
+                        "width": 157,
+                        "height": 240,
+                        "similarity": 0.5117801427841187
+                    }
+                },
+                {
+                    "frame_number": 218,
+                    "target_face": {
+                        "x": 554,
+                        "y": 108,
+                        "width": 157,
+                        "height": 240,
+                        "similarity": 0.5366100072860718
+                    }
+                },
+                {
+                    "frame_number": 219,
+                    "target_face": {
+                        "x": 557,
+                        "y": 102,
+                        "width": 157,
+                        "height": 246,
+                        "similarity": 0.5386332273483276
+                    }
+                },
+                {
+                    "frame_number": 220,
+                    "target_face": {
+                        "x": 557,
+                        "y": 102,
+                        "width": 157,
+                        "height": 241,
+                        "similarity": 0.5568017959594727
+                    }
+                },
+                {
+                    "frame_number": 221,
+                    "target_face": {
+                        "x": 557,
+                        "y": 100,
+                        "width": 154,
+                        "height": 241,
+                        "similarity": 0.5176412463188171
+                    }
+                },
+                {
+                    "frame_number": 222,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 223,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 224,
+                    "target_face": {
+                        "x": 559,
+                        "y": 112,
+                        "width": 160,
+                        "height": 237,
+                        "similarity": 0.507480263710022
+                    }
+                },
+                {
+                    "frame_number": 225,
+                    "target_face": {
+                        "x": 559,
+                        "y": 118,
+                        "width": 160,
+                        "height": 237,
+                        "similarity": 0.5654280781745911
+                    }
+                },
+                {
+                    "frame_number": 226,
+                    "target_face": {
+                        "x": 559,
+                        "y": 126,
+                        "width": 158,
+                        "height": 231,
+                        "similarity": 0.5600541830062866
+                    }
+                },
+                {
+                    "frame_number": 227,
+                    "target_face": {
+                        "x": 559,
+                        "y": 126,
+                        "width": 155,
+                        "height": 231,
+                        "similarity": 0.5697837471961975
+                    }
+                },
+                {
+                    "frame_number": 228,
+                    "target_face": {
+                        "x": 557,
+                        "y": 121,
+                        "width": 157,
+                        "height": 232,
+                        "similarity": 0.593277096748352
+                    }
+                },
+                {
+                    "frame_number": 229,
+                    "target_face": {
+                        "x": 556,
+                        "y": 120,
+                        "width": 158,
+                        "height": 235,
+                        "similarity": 0.5893971920013428
+                    }
+                },
+                {
+                    "frame_number": 230,
+                    "target_face": {
+                        "x": 556,
+                        "y": 120,
+                        "width": 160,
+                        "height": 237,
+                        "similarity": 0.5896002054214478
+                    }
+                },
+                {
+                    "frame_number": 231,
+                    "target_face": {
+                        "x": 554,
+                        "y": 123,
+                        "width": 161,
+                        "height": 237,
+                        "similarity": 0.5672194957733154
+                    }
+                },
+                {
+                    "frame_number": 232,
+                    "target_face": {
+                        "x": 556,
+                        "y": 127,
+                        "width": 157,
+                        "height": 234,
+                        "similarity": 0.5714755058288574
+                    }
+                },
+                {
+                    "frame_number": 233,
+                    "target_face": {
+                        "x": 557,
+                        "y": 127,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5966207385063171
+                    }
+                },
+                {
+                    "frame_number": 234,
+                    "target_face": {
+                        "x": 557,
+                        "y": 127,
+                        "width": 155,
+                        "height": 234,
+                        "similarity": 0.5956003069877625
+                    }
+                },
+                {
+                    "frame_number": 235,
+                    "target_face": {
+                        "x": 556,
+                        "y": 126,
+                        "width": 157,
+                        "height": 232,
+                        "similarity": 0.6073441505432129
+                    }
+                },
+                {
+                    "frame_number": 236,
+                    "target_face": {
+                        "x": 559,
+                        "y": 127,
+                        "width": 155,
+                        "height": 234,
+                        "similarity": 0.5612943172454834
+                    }
+                },
+                {
+                    "frame_number": 237,
+                    "target_face": {
+                        "x": 557,
+                        "y": 129,
+                        "width": 158,
+                        "height": 232,
+                        "similarity": 0.578567385673523
+                    }
+                },
+                {
+                    "frame_number": 238,
+                    "target_face": {
+                        "x": 557,
+                        "y": 130,
+                        "width": 160,
+                        "height": 232,
+                        "similarity": 0.5962789058685303
+                    }
+                },
+                {
+                    "frame_number": 239,
+                    "target_face": {
+                        "x": 557,
+                        "y": 132,
+                        "width": 160,
+                        "height": 231,
+                        "similarity": 0.6037313938140869
+                    }
+                },
+                {
+                    "frame_number": 240,
+                    "target_face": {
+                        "x": 557,
+                        "y": 132,
+                        "width": 160,
+                        "height": 229,
+                        "similarity": 0.5915018320083618
+                    }
+                },
+                {
+                    "frame_number": 241,
+                    "target_face": {
+                        "x": 557,
+                        "y": 130,
+                        "width": 158,
+                        "height": 235,
+                        "similarity": 0.5913519859313965
+                    }
+                },
+                {
+                    "frame_number": 242,
+                    "target_face": {
+                        "x": 557,
+                        "y": 129,
+                        "width": 158,
+                        "height": 235,
+                        "similarity": 0.5878542065620422
+                    }
+                },
+                {
+                    "frame_number": 243,
+                    "target_face": {
+                        "x": 557,
+                        "y": 132,
+                        "width": 158,
+                        "height": 234,
+                        "similarity": 0.5983569622039795
+                    }
+                },
+                {
+                    "frame_number": 244,
+                    "target_face": {
+                        "x": 557,
+                        "y": 132,
+                        "width": 157,
+                        "height": 232,
+                        "similarity": 0.5796425342559814
+                    }
+                },
+                {
+                    "frame_number": 245,
+                    "target_face": {
+                        "x": 557,
+                        "y": 132,
+                        "width": 160,
+                        "height": 232,
+                        "similarity": 0.6073487401008606
+                    }
+                },
+                {
+                    "frame_number": 246,
+                    "target_face": {
+                        "x": 557,
+                        "y": 129,
+                        "width": 157,
+                        "height": 234,
+                        "similarity": 0.5700247287750244
+                    }
+                },
+                {
+                    "frame_number": 247,
+                    "target_face": {
+                        "x": 557,
+                        "y": 127,
+                        "width": 158,
+                        "height": 234,
+                        "similarity": 0.5689710378646851
+                    }
+                },
+                {
+                    "frame_number": 248,
+                    "target_face": {
+                        "x": 556,
+                        "y": 123,
+                        "width": 157,
+                        "height": 231,
+                        "similarity": 0.5923937559127808
+                    }
+                },
+                {
+                    "frame_number": 249,
+                    "target_face": {
+                        "x": 556,
+                        "y": 121,
+                        "width": 158,
+                        "height": 232,
+                        "similarity": 0.5991605520248413
+                    }
+                },
+                {
+                    "frame_number": 250,
+                    "target_face": {
+                        "x": 556,
+                        "y": 123,
+                        "width": 160,
+                        "height": 235,
+                        "similarity": 0.5896892547607422
+                    }
+                },
+                {
+                    "frame_number": 251,
+                    "target_face": {
+                        "x": 556,
+                        "y": 129,
+                        "width": 161,
+                        "height": 231,
+                        "similarity": 0.603781521320343
+                    }
+                },
+                {
+                    "frame_number": 252,
+                    "target_face": {
+                        "x": 556,
+                        "y": 130,
+                        "width": 154,
+                        "height": 229,
+                        "similarity": 0.591748058795929
+                    }
+                },
+                {
+                    "frame_number": 253,
+                    "target_face": {
+                        "x": 556,
+                        "y": 130,
+                        "width": 155,
+                        "height": 228,
+                        "similarity": 0.5514853000640869
+                    }
+                },
+                {
+                    "frame_number": 254,
+                    "target_face": {
+                        "x": 554,
+                        "y": 130,
+                        "width": 155,
+                        "height": 229,
+                        "similarity": 0.5377477407455444
+                    }
+                },
+                {
+                    "frame_number": 255,
+                    "target_face": {
+                        "x": 556,
+                        "y": 132,
+                        "width": 157,
+                        "height": 231,
+                        "similarity": 0.5559135675430298
+                    }
+                },
+                {
+                    "frame_number": 256,
+                    "target_face": {
+                        "x": 556,
+                        "y": 132,
+                        "width": 155,
+                        "height": 232,
+                        "similarity": 0.5249062776565552
+                    }
+                },
+                {
+                    "frame_number": 257,
+                    "target_face": {
+                        "x": 556,
+                        "y": 130,
+                        "width": 155,
+                        "height": 235,
+                        "similarity": 0.5092198848724365
+                    }
+                },
+                {
+                    "frame_number": 258,
+                    "target_face": {
+                        "x": 557,
+                        "y": 130,
+                        "width": 155,
+                        "height": 235,
+                        "similarity": 0.5307539701461792
+                    }
+                },
+                {
+                    "frame_number": 259,
+                    "target_face": {
+                        "x": 559,
+                        "y": 132,
+                        "width": 155,
+                        "height": 234,
+                        "similarity": 0.5460739731788635
+                    }
+                },
+                {
+                    "frame_number": 260,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 261,
+                    "target_face": {
+                        "x": 559,
+                        "y": 133,
+                        "width": 157,
+                        "height": 232,
+                        "similarity": 0.5374908447265625
+                    }
+                },
+                {
+                    "frame_number": 262,
+                    "target_face": {
+                        "x": 557,
+                        "y": 133,
+                        "width": 158,
+                        "height": 232,
+                        "similarity": 0.5576657056808472
+                    }
+                },
+                {
+                    "frame_number": 263,
+                    "target_face": {
+                        "x": 559,
+                        "y": 133,
+                        "width": 158,
+                        "height": 234,
+                        "similarity": 0.5861351490020752
+                    }
+                },
+                {
+                    "frame_number": 264,
+                    "target_face": {
+                        "x": 559,
+                        "y": 133,
+                        "width": 161,
+                        "height": 234,
+                        "similarity": 0.59201979637146
+                    }
+                },
+                {
+                    "frame_number": 265,
+                    "target_face": {
+                        "x": 559,
+                        "y": 132,
+                        "width": 163,
+                        "height": 235,
+                        "similarity": 0.6009519100189209
+                    }
+                }
+            ]
+        },
+        {
+            "scene_number": 5,
+            "file_name": "annotated_video.mp4",
+            "start_time": 11.094416666666666,
+            "end_time": 14.723041666666665,
+            "frames": [
+                {
+                    "frame_number": 266,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 267,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 268,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 269,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 270,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 271,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 272,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 273,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 274,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 275,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 276,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 277,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 278,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 279,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 280,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 281,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 282,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 283,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 284,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 285,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 286,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 287,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 288,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 289,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 290,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 291,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 292,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 293,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 294,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 295,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 296,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 297,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 298,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 299,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 300,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 301,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 302,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 303,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 304,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 305,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 306,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 307,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 308,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 309,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 310,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 311,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 312,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 313,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 314,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 315,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 316,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 317,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 318,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 319,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 320,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 321,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 322,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 323,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 324,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 325,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 326,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 327,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 328,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 329,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 330,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 331,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 332,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 333,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 334,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 335,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 336,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 337,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 338,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 339,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 340,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 341,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 342,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 343,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 344,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 345,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 346,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 347,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 348,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 349,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 350,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 351,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 352,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 353,
+                    "target_face": null
+                }
+            ]
+        },
+        {
+            "scene_number": 6,
+            "file_name": "annotated_video.mp4",
+            "start_time": 14.76475,
+            "end_time": 16.975291666666667,
+            "frames": [
+                {
+                    "frame_number": 354,
+                    "target_face": {
+                        "x": 672,
+                        "y": 70,
+                        "width": 76,
+                        "height": 108,
+                        "similarity": 0.5956969261169434
+                    }
+                },
+                {
+                    "frame_number": 355,
+                    "target_face": {
+                        "x": 672,
+                        "y": 72,
+                        "width": 77,
+                        "height": 105,
+                        "similarity": 0.5668588876724243
+                    }
+                },
+                {
+                    "frame_number": 356,
+                    "target_face": {
+                        "x": 672,
+                        "y": 70,
+                        "width": 76,
+                        "height": 108,
+                        "similarity": 0.5867732763290405
+                    }
+                },
+                {
+                    "frame_number": 357,
+                    "target_face": {
+                        "x": 672,
+                        "y": 69,
+                        "width": 77,
+                        "height": 109,
+                        "similarity": 0.5526974201202393
+                    }
+                },
+                {
+                    "frame_number": 358,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 359,
+                    "target_face": {
+                        "x": 672,
+                        "y": 69,
+                        "width": 77,
+                        "height": 109,
+                        "similarity": 0.5032387971878052
+                    }
+                },
+                {
+                    "frame_number": 360,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 361,
+                    "target_face": {
+                        "x": 672,
+                        "y": 69,
+                        "width": 76,
+                        "height": 108,
+                        "similarity": 0.5304046869277954
+                    }
+                },
+                {
+                    "frame_number": 362,
+                    "target_face": {
+                        "x": 672,
+                        "y": 69,
+                        "width": 76,
+                        "height": 108,
+                        "similarity": 0.5159302353858948
+                    }
+                },
+                {
+                    "frame_number": 363,
+                    "target_face": {
+                        "x": 672,
+                        "y": 69,
+                        "width": 76,
+                        "height": 109,
+                        "similarity": 0.5303254723548889
+                    }
+                },
+                {
+                    "frame_number": 364,
+                    "target_face": {
+                        "x": 671,
+                        "y": 70,
+                        "width": 77,
+                        "height": 106,
+                        "similarity": 0.5475114583969116
+                    }
+                },
+                {
+                    "frame_number": 365,
+                    "target_face": {
+                        "x": 671,
+                        "y": 72,
+                        "width": 76,
+                        "height": 105,
+                        "similarity": 0.5407476425170898
+                    }
+                },
+                {
+                    "frame_number": 366,
+                    "target_face": {
+                        "x": 669,
+                        "y": 72,
+                        "width": 76,
+                        "height": 105,
+                        "similarity": 0.5057249665260315
+                    }
+                },
+                {
+                    "frame_number": 367,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 368,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 369,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 370,
+                    "target_face": {
+                        "x": 662,
+                        "y": 73,
+                        "width": 76,
+                        "height": 102,
+                        "similarity": 0.5084278583526611
+                    }
+                },
+                {
+                    "frame_number": 371,
+                    "target_face": {
+                        "x": 660,
+                        "y": 73,
+                        "width": 74,
+                        "height": 103,
+                        "similarity": 0.5072362422943115
+                    }
+                },
+                {
+                    "frame_number": 372,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 373,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 374,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 375,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 376,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 377,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 378,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 379,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 380,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 381,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 382,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 383,
+                    "target_face": {
+                        "x": 660,
+                        "y": 76,
+                        "width": 79,
+                        "height": 102,
+                        "similarity": 0.5642094612121582
+                    }
+                },
+                {
+                    "frame_number": 384,
+                    "target_face": {
+                        "x": 659,
+                        "y": 76,
+                        "width": 79,
+                        "height": 100,
+                        "similarity": 0.5661277770996094
+                    }
+                },
+                {
+                    "frame_number": 385,
+                    "target_face": {
+                        "x": 654,
+                        "y": 78,
+                        "width": 74,
+                        "height": 100,
+                        "similarity": 0.5675477981567383
+                    }
+                },
+                {
+                    "frame_number": 386,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 387,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 388,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 389,
+                    "target_face": {
+                        "x": 614,
+                        "y": 78,
+                        "width": 74,
+                        "height": 99,
+                        "similarity": 0.5593416690826416
+                    }
+                },
+                {
+                    "frame_number": 390,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 391,
+                    "target_face": {
+                        "x": 592,
+                        "y": 78,
+                        "width": 76,
+                        "height": 99,
+                        "similarity": 0.5070943832397461
+                    }
+                },
+                {
+                    "frame_number": 392,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 393,
+                    "target_face": {
+                        "x": 574,
+                        "y": 82,
+                        "width": 71,
+                        "height": 94,
+                        "similarity": 0.537522554397583
+                    }
+                },
+                {
+                    "frame_number": 394,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 395,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 396,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 397,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 398,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 399,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 400,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 401,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 402,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 403,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 404,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 405,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 406,
+                    "target_face": null
+                },
+                {
+                    "frame_number": 407,
+                    "target_face": null
+                }
+            ]
+        }
+    ]
+}
